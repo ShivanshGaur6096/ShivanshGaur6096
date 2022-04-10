@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ShivanshGaur6096
 - 👀 I’m interested in developing bugfree, debuggable and highly efficient iOS Application.
 - 🌱 I’m currently learning and working on advance concepts in Swift 5.0 and SwiftUI.
-- 📫 Reach me via LinkedIn <a href= "https://www.linkedin.com/in/shivanshgaur/">shivanshgaur</a>
+- 📫 Reach me via LinkedIn <a href="https://www.linkedin.com/in/shivanshgaur/">shivanshgaur</a>
+- 💬 Also available on twitter now <a href="https://twitter.com/shivansh_gaur">@shivansh_gaur</a>
 
 <!---
 ShivanshGaur6096/ShivanshGaur6096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
