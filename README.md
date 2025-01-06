@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShivanshGaur6096
+- 👋 Hi, I’m Shivansh Gaur
 - 👀 I’m passionate about developing bug-free, debuggable, and highly efficient iOS applications.
 - 💡 I’m currently diving deep into advanced concepts in Swift 5.0 and SwiftUI, with a focus on Combine and CallKit for reactive and VoIP functionalities.
 - 🚀 I love integrating modern frameworks and practices to enhance app performance and user experience.
